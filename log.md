@@ -7,12 +7,8 @@
 **Thoughts:** I investigated how use starlette with auth, i should refactory with my ideas and usability, need agregate models for user with BD
 **Link to work:** [Anubis](https://github.com/Reyes2777/anubis/commit/8ac0efe67912a6796fc8ed5d4d1f5c66a247fe1b)
 
-### Day 1: June 27, Monday
+### Day 2: November 14, 2019(Create Model)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone desing model and arquitecture in DB Mongo, investigated how connect DB with starlette
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** Today I has been investigated about use Mongo for my application, I dont know if this task is valid for use in the 100 days, morning implemented that investigated
