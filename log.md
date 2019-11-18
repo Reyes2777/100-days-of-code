@@ -12,3 +12,9 @@
 **Today's Progress**: I've gone desing model and arquitecture in DB Mongo, investigated how connect DB with starlette
 
 **Thoughts** Today I has been investigated about use Mongo for my application, I dont know if this task is valid for use in the 100 days, morning implemented that investigated
+
+### Day 3: November 17, 2019(Create Class DB for Models)
+
+**Today's Progress**: I create MongoDB, and create user and DB for anubis, and create class wrapper for DB in pymongo
+
+**Thoughts** I learn too much about mongo and clients, how use Mongo with autheticated, pymongo use cient. Morning i worked in model Users
