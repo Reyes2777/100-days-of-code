@@ -18,3 +18,10 @@
 **Today's Progress**: I create MongoDB, and create user and DB for anubis, and create class wrapper for DB in pymongo
 
 **Thoughts** I learn too much about mongo and clients, how use Mongo with autheticated, pymongo use cient. Morning i worked in model Users
+
+
+### Day 4: November 18, 2019(Create Model DB)
+
+**Today's Progress**: I create model User and investigated how use pymongo for create methods for this model
+
+**Thoughts** I need create model for create, get, update and delete all Users
