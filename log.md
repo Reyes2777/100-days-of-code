@@ -25,3 +25,9 @@
 **Today's Progress**: I create model User and investigated how use pymongo for create methods for this model
 
 **Thoughts** I need create model for create, get, update and delete all Users
+
+### Day 5: November 19, 2019(Refactor Model USer)
+
+**Today's Progress**: I refactor model User for use with library mongoengine
+
+**Thoughts** Investigated about ORM use MongoDB with python, and I choose Mongoengine for use in this project for the   queryset like to Django
