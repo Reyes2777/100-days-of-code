@@ -31,3 +31,9 @@
 **Today's Progress**: I refactor model User for use with library mongoengine
 
 **Thoughts** Investigated about ORM use MongoDB with python, and I choose Mongoengine for use in this project for the   queryset like to Django
+
+### Day 6: November 120, 2019(Controller USer)
+
+**Today's Progress**: I create controller for user and function for create users, validate email and in the field mongo create a unique field email
+
+**Thoughts** I need implement flask or Sanic, for the run application and do test
